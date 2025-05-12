@@ -45,7 +45,10 @@ Execute the script to configure DVWA with reCAPTCHA:
 ```bash
 ./setup-dvwa-recaptcha.sh
 ```
+### 4. Reset Database
+Open your browser and navigate to the DVWA URL and go to the Setup tab.
+Scroll down and click Create/Reset Database.
 
-### 4. Access DVWA
+### 5. Access DVWA
 
 After the setup is complete, open your browser and navigate to the DVWA URL to test the reCAPTCHA integration.
